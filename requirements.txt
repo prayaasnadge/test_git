@@ -1,0 +1,5 @@
+requests
+vaderSentiment
+pandas
+beautifulsoup4
+scikit-learn
